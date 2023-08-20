@@ -1,5 +1,0 @@
-{{#user}
-Name: Abhishek Gupta
-Skills: HTML, CSS, JS, Bootstrap , tailwandcss , Mysql
-Email: abhishekgupta2534@gmail.com
-{{/user}}
